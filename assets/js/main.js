@@ -38,10 +38,10 @@ const swiperHome = new Swiper('.home__swiper', {
     clickable: true
   },
 
-//   autoplay: {
-//     delay: 3000,
-//     disableOnInteraction: false
-//   }
+  autoplay: {
+    delay: 3000,
+    disableOnInteraction: false
+  }
 });
 
 /*=============== CHANGE HEADER STYLES ===============*/
